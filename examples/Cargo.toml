@@ -29,6 +29,7 @@ members = [
     "wait",
     "token-vendor",
     "token-vendor/workshop-example",
+    "fungible_token"
 ]
 
 [profile.release]
